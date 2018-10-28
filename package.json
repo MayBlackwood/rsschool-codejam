@@ -1,0 +1,22 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayBlackwood/rsschool-codejam.git"
+  },
+  "keywords": [],
+  "author": "Ksenia Bobtsova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayBlackwood/rsschool-codejam/issues"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
